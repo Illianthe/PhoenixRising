@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<level width="12" height="12" fireball="2" freeze="3">
+	<row>WWWWWWWWWWWW</row>
+	<row>WPIIIIGIIIIW</row>
+	<row>WIIIIITIIIGW</row>
+	<row>WIIIIIIIIIIW</row>
+	<row>WIIIIIIIGIIW</row>
+	<row>WIGIIIIITIIW</row>
+	<row>WIIIIIIIIIGW</row>
+	<row>WIIIIIIIIIIW</row>
+	<row>WGIIIIIIIIIW</row>
+	<row>WIGTIIIIIIIW</row>
+	<row>WIIGIGIIIIIW</row>
+	<row>WWWWWWWWWWWW</row>
+</level>

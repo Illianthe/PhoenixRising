@@ -1,0 +1,49 @@
+body {
+	background-color: #111111;
+}
+
+canvas {
+	background-color: #000;
+	border: 1px solid #FFF;
+	color: #AAAAAA;
+	display: block;
+	height: 500px;
+	margin: auto;
+	width: 1000px;
+}
+
+#info {
+	background-color: #000;
+	color: #FFF;
+	border: 1px solid #FFF;
+	display: none;
+	font-size: 25px;
+	height: 50px;
+	margin: 10px auto 0 auto;
+	text-align: center;
+	width: 1000px;
+}
+
+	#levelContainer,
+	#fireballContainer,
+	#freezeContainer {
+		float: left;
+		margin: 10px 25px 10px 10px;
+	}
+	
+	#restart {
+		border: 1px solid #FFF;
+		float: right;
+		margin: 5px 5px 5px 0;
+		padding: 5px;
+	}
+
+.nocanvas {
+	margin: 10px;
+}
+
+.text {
+	color: #AAAAAA;
+	margin: 10px auto 0 auto;
+	width: 1000px;
+}
